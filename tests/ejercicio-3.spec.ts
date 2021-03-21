@@ -1,4 +1,4 @@
-/*import 'mocha';
+import 'mocha';
 import {expect} from 'chai';
 import {Coches} from '../src/ejercicio-3/coches';
 import {Motos} from '../src/ejercicio-3/motos';
@@ -71,4 +71,3 @@ describe(`Pracitca5_prueba`, () => {
         });
     });
 });
-*/
