@@ -1,0 +1,25 @@
+{
+    "exclude": [
+      "./tests",
+      "./node_modules",
+      "./dist"
+    ],
+      "compilerOptions": {
+        "target": "ES2020",
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "module": "CommonJS",
+        "declaration": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "noImplicitReturns": true,
+        "strictPropertyInitialization": true
+        //"declaration": true,
+        //"sourceMap": true,
+        //"noImplicitAny":true,
+        //"strictNullChecks": true,
+        //"noImplicitReturns": true,
+        //"suppressExcessPropertyErrors":true         //Evitar errores que no esta definido
+      }
+   }
+   
